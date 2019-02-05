@@ -16,7 +16,7 @@ from datetime import datetime
 from gtts import gTTS
 import html5lib,shutil
 import wikipedia,goslate
-import ffmpy
+#import ffmpy
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
